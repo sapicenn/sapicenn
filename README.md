@@ -1,8 +1,5 @@
-<h2>Oi! Eu sou a Sarah!</h2>
-🌙 20 anos <br>
-⌛️ Formada em Técnico em informática pelo IFRS<br>
-💻 Estudante de Ciência da Computação e Tecnologia em Banco de dados <br>
-🌱 Sempre em busca de aprender mais
+<h2>Sarah Picenni</h2>
+Olá! Eu me chamo Sarah Picenni de Oliveira, tenho 20 anos e moro no Rio Grande do Sul. Minha experiência com a tecnologia começou quando eu, aos 15 anos, comecei a fazer o ensino médio no IFRS integrado ao curso técnico em informática, o qual concluí em 2023. Um ano depois, em 2024, iniciei minha educação superior no centro universitário Uninter, no curso de Ciência da Computação. Sou fascinada por programação, mais especificamente pela parte de back-end, utilizando principalmente Python e Java. Meu objetivo é ingressar no mercado de trabalho, onde poderei aprimorar meus conhecimentos e habilidades.
 <br><br>
 
 <div>
@@ -16,7 +13,6 @@
   <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" alt="postgresql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" alt="pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 </div>
 
 <div><h2>Redes Sociais:</h2>

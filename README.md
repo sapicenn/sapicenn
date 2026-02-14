@@ -1,5 +1,5 @@
 <h2>Sarah Picenni</h2>
-Olá! Eu me chamo Sarah Picenni de Oliveira, tenho 20 anos e moro no Rio Grande do Sul. Minha experiência com a tecnologia começou quando eu, aos 15 anos, comecei a fazer o ensino médio no IFRS integrado ao curso técnico em informática, o qual concluí em 2023. Um ano depois, em 2024, iniciei minha educação superior no centro universitário Uninter, no curso de Ciência da Computação. Sou fascinada por programação, mais especificamente pela parte de back-end, utilizando principalmente Python e Java. Meu objetivo é ingressar no mercado de trabalho, onde poderei aprimorar meus conhecimentos e habilidades.
+Olá! Eu me chamo Sarah Picenni de Oliveira, tenho 20 anos e moro no Rio Grande do Sul. Minha experiência com a tecnologia começou quando eu, aos 15 anos, comecei a fazer o ensino médio no IFRS integrado ao curso técnico em informática, o qual concluí em 2023. Um ano depois, em 2024, iniciei minha educação superior no centro universitário Uninter, no curso de Ciência da Computação. Sou fascinada por programação, mais especificamente pela parte de back-end, utilizando Java. Meu objetivo é ingressar no mercado de trabalho, onde poderei aprimorar meus conhecimentos e habilidades.
 <br><br>
 
 <div>

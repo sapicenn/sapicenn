@@ -3,8 +3,8 @@ Olá! Eu me chamo Sarah Picenni de Oliveira, tenho 20 anos e moro no Rio Grande 
 <br><br>
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=sapicenn&show_icons=true&theme=rose&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=sapicenn&layout=compact&langs_count=16&theme=rose">
+    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=sapicenn&show_icons=true&theme=bear&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=sapicenn&layout=compact&langs_count=16&theme=bear">
 </div>
 
 <div>

@@ -2,9 +2,9 @@
 Olá! Eu me chamo Sarah Picenni de Oliveira, tenho 20 anos e moro no Rio Grande do Sul. Minha experiência com a tecnologia começou quando eu, aos 15 anos, comecei a fazer o ensino médio no IFRS integrado ao curso técnico em informática, o qual concluí em 2023. Um ano depois, em 2024, iniciei minha educação superior no centro universitário Uninter, no curso de Ciência da Computação. Sou fascinada por programação, mais especificamente pela parte de back-end, utilizando Java. Meu objetivo é ingressar no mercado de trabalho, onde poderei aprimorar meus conhecimentos e habilidades.
 <br><br>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapicenn&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapicenn&layout=compact&langs_count=8&theme=bear&count_private=true"/>
+<div align="center">
+    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=sapicenn&show_icons=true&theme=rose&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=sapicenn&layout=compact&langs_count=16&theme=rose">
 </div>
 
 <div>

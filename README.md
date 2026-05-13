@@ -7,14 +7,16 @@ Olá! Eu me chamo Sarah Picenni de Oliveira, tenho 21 anos e moro no Rio Grande 
     <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=sapicenn&layout=compact&langs_count=16&theme=bear">
 </div>
 
-<div>
+<div align="center">
   <h2>Linguagens e Tecnologias:</h2>
-  <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" alt="postgresql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div><h2>Redes Sociais:</h2>
+<div align="center"><h2>Redes Sociais:</h2>
   <a href = "mailto:sarinhapicennideoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/sarah-picenni-1783a4236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
